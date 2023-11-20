@@ -22,11 +22,7 @@ _Create a GitHub Action and use it in a workflow._
 
 _Congratulations friend, you've completed this course!_
 
-<<<<<<< HEAD
-Your new action will run any time a pull request has been opened. :)
-=======
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
->>>>>>> main
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
